@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.froheel.cv.base",
+    "sha256_cert_fingerprints":
+    ["67:D9:F6:2D:18:27:C2:54:AF:37:AA:D7:8F:09:80:6F:7B:E3:3D:DB:E3:D2:2C:82:BB:05:34:D2:9A:E8:1B:85"]
+  }
+}]
